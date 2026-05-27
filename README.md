@@ -211,4 +211,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-*Developed with ❤️ by the Finport Team.*
+*Developed with ❤️ by Rajesh Choudhury.*
